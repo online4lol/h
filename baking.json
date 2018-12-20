@@ -2,7 +2,7 @@
 	"baking":[
 		{
 			"id": 1,
-			"name": "Nutella Pie",
+			"name": "pie",
 			"ingredients": [
 			  {
 				"quantity": 2,
